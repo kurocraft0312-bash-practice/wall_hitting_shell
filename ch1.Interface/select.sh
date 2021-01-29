@@ -1,6 +1,6 @@
 #!/bin/sh
 
-while:
+while :
 do
     echo "Menu:"
     echo "1) list file"
@@ -24,4 +24,4 @@ do
         esac
 
         echo
-    done
+done
