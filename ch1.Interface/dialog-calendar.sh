@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# dialogがアーカイブされているので、現在利用できず
 LOG_DIR=/myapp/ap1/log
 
 # dialogコマンドでカレンダーを出力
